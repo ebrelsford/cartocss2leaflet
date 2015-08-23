@@ -10,16 +10,13 @@ Usage
 You can use it as a module or as a command line script. To do the latter, clone
 this repo, `npm install -g` and invoke the script:
 
-    cartocss2leaflet <file>
+    cartocss2leaflet < <file>
 
 
 TODO
 ----
 
- * command line script
- * variables
- * :: attachments
- * / instances
+ * Any SVG properties not already covered
 
 
 WON'T DO

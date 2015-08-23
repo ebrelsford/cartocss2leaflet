@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/ebrelsford/cartocss2leaflet#readme",
   "dependencies": {
+    "commander": "^2.8.1",
     "rgb-hex": "^1.0.0",
     "underscore": "^1.8.3"
   },
