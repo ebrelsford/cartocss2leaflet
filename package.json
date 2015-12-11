@@ -7,6 +7,9 @@
     "test": "mocha",
     "watch": "babel src/index.js --out-file index.js --watch"
   },
+  "bin": {
+    "cartocss2leaflet": "./bin/cartocss2leaflet.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/ebrelsford/cartocss2leaflet.git"
