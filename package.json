@@ -1,6 +1,6 @@
 {
   "name": "cartocss2leaflet",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Convert CartoCSS to Leaflet styles",
   "main": "index.js",
   "scripts": {
