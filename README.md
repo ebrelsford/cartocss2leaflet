@@ -16,11 +16,21 @@ maps. This probably won't get you the whole way there (see WON'T DO, below), but
 it's a start.
 
 
+Install
+-------
+
+    npm install -g cartocss2leaflet
+
+or clone this repo and
+
+    npm install -g
+
+
 Usage
 -----
 
-You can use it as a module or as a command line script. To do the latter, clone
-this repo, `npm install -g` and invoke the script:
+You can use it as a module or as a command line script. To do the latter,
+install the module globally and invoke the script:
 
     cartocss2leaflet < <file>
 
